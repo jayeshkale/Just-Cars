@@ -1,0 +1,31 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+    font-size: small;
+    border-radius: 2px;
+}
+#a1{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div1{
+    background-color: gold;
+    height: 500px;
+    width: 600px;
+    overflow: auto;
+}
+#image1{
+    height: 75%;
+    width: 85%;
+    border-radius: 10%;
+}
+body{
+    background-image: url(logos.jpg);
+}

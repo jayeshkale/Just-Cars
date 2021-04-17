@@ -1,0 +1,25 @@
+a{
+    font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: cornsilk;
+}
+table{
+    font-family: unset;
+    font-size:large;
+}
+img{
+    border-radius: 50%;
+    height: 500px; width: 850px
+}
+h1{
+    font-weight: 800;
+
+}
+table{
+    font-family: monospace;
+}
+body{
+    background-image: url(logos.jpg);
+}

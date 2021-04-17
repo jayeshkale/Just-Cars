@@ -1,0 +1,27 @@
+a{
+    font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: bisque ;
+}
+p{
+    font-family: fantasy;
+    font-size: smaller;
+}
+h1{
+    font-size: xx-large;
+}
+#image1{
+    border-radius: 50%;
+    height: 500px;
+    width: 850px;
+}
+#image2{
+    border-radius: 50%;
+    height: 500px;
+    width: 850px;
+}
+body{
+    background-image: url(logos.jpg);
+}
